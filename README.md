@@ -1,12 +1,13 @@
 <div id="header" width="100" align="center"  >
-  <div align="start" width="100" align="center" >
-    <img width="500"   src="https://media2.giphy.com/media/fkZukR450RQ1qnGaq9/giphy.gif?cid=ecf05e47gneo2xsewt8d2zhuq4cmwic93xuhluywadnh6oxy&rid=giphy.gif&ct=s" width="300"/>
+  <div align="center" width="100" align="center" >
+    <img width="300"   src="https://media2.giphy.com/media/fkZukR450RQ1qnGaq9/giphy.gif?cid=ecf05e47gneo2xsewt8d2zhuq4cmwic93xuhluywadnh6oxy&rid=giphy.gif&ct=s" width="200"/>
   </div>
 </div>
 <br />
 
+
 <div> 
-  <div > 
+  <div align="center" > 
  👋 Hi, I’m Khaled <br />
  👀 I’m interested in JavaScript, React.js, and React Native for mobile development <br />
  &#127891; I’m currently studying computer enginnering in Karabuk university in Turkey  <br />
@@ -18,8 +19,8 @@
 </div>
 </div>
  <div>
- <div ><b>Current Skills..</b> </div><br /><br />
-   <p>
+ <div align="center"><b>Current Skills..</b> </div><br /><br />
+   <p align="center">
    <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>
    <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
    <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
@@ -32,8 +33,8 @@
    </p>&nbsp;
    
   <br />
- <div ><b>Still Learning..</b> </div><br /><br />
-   <p>
+ <div align="center" ><b>Still Learning..</b> </div><br /><br />
+   <p align="center">
    <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" title="express" alt="express" width="40"  height="40"/>&nbsp;
    <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="nodejs" alt="NodeJS" width="40"  height="40"/>&nbsp;
    <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original-wordmark.svg" title="nextjs" **alt="nextjs" width="40" height="40"/>
@@ -43,15 +44,15 @@
   </div>
  <br />
 
- ![](https://leetcard.jacoblin.cool/Khaled6120?theme=nord&border=0&radius=20) 
+ ![](https://leetcard.jacoblin.cool/Khaled6120?theme=nord&border=0&radius=20&width=1000&animation=true) 
  
  <br />
- <div id="badges" align="start">
+
+ <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/khaled-naes-359456216">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 </div>
-
 
 
 
