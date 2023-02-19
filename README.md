@@ -35,11 +35,11 @@
   <br />
  <div align="center"><b>Still Learning..</b> </div><br /><br />
    <p align="center">
-   <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" title="JavaScript" alt="express" width="40"  height="40"/>&nbsp;
-   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40"  height="40"/>&nbsp;
-   <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original-wordmark.svg" title="Git" **alt="nextjs" width="40" height="40"/>
-   <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-plain.svg" title="Tailwindcss" alt="mongodb" width="40" height="40"/>&nbsp;
-   <img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-plain.svg" title="Tailwindcss" alt="materialui" width="40" height="40"/>&nbsp;
+   <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" title="express" alt="express" width="40"  height="40"/>&nbsp;
+   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="nodejs" alt="NodeJS" width="40"  height="40"/>&nbsp;
+   <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original-wordmark.svg" title="nextjs" **alt="nextjs" width="40" height="40"/>
+   <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-plain.svg" title="mongodb" alt="mongodb" width="40" height="40"/>&nbsp;
+   <img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-plain.svg" title="materialui" alt="materialui" width="40" height="40"/>&nbsp;
    </p>&nbsp;
   </div>
  <br />
