@@ -16,6 +16,7 @@
 📢 I’m looking to collaborate on projects , to work with a team .. <br />
  ✨ “You learn more from failure than from success. Don’t let it stop you. Failure builds character.”  <br /> 
   <br />
+  <br />
 </div>
  <div>
  <div align="center"><b>Current Skills..</b> </div><br /><br />
@@ -31,7 +32,7 @@
    <img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" title="npm" alt="Tw" width="40" height="40"/>&nbsp;
    </p>&nbsp;
    
-  <br /><br />
+  <br />
  <div align="center"><b>Still Learning..</b> </div><br /><br />
    <p align="center">
    <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" title="JavaScript" alt="express" width="40"  height="40"/>&nbsp;
