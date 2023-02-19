@@ -1,13 +1,10 @@
-<div id="header" align="center" >
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+<div id="header" width="100%"  >
+  <div align="start"  width="50%">
+    <img src="https://media2.giphy.com/media/jdPMeyv9rn0hZHh8n9/giphy.gif?cid=ecf05e47r7kkrtgfq01wxld19zv121j20qb3i1uafdbwkxnq&rid=giphy.gif&ct=s" width="300"/>
+  </div>
 </div>
 
-<div id="badges" align="center">
-  <a href="https://www.linkedin.com/in/khaled-naes-359456216">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-</div>
- <br /> <br />
+ <br />
 
   <div > 
  👋 Hi, I’m Khaled <br />
@@ -45,4 +42,11 @@
  <br />
 
  ![](https://leetcard.jacoblin.cool/Khaled6120?theme=nord&border=0&radius=20) 
+ 
+ <br />
+ <div id="badges" align="start">
+  <a href="https://www.linkedin.com/in/khaled-naes-359456216">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+</div>
 
