@@ -52,7 +52,7 @@
 </div>
 <br />
 <div align="center">
-<img width="80" src="https://user-images.githubusercontent.com/86200305/220100218-586ac69a-d058-4db2-84cf-2d6cea0cab2c.png" />
+<img width="60" src="https://user-images.githubusercontent.com/86200305/220100218-586ac69a-d058-4db2-84cf-2d6cea0cab2c.png" />
 
 </div>
 <br />
