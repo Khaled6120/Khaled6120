@@ -44,15 +44,23 @@
   </div>
  <br />
 
- ![](https://leetcard.jacoblin.cool/Khaled6120?theme=nord&border=0&radius=20&width=1000&animation=true) 
- 
- <br />
+<div align="center">
+<img src="https://leetcard.jacoblin.cool/Khaled6120?theme=nord&border=0&radius=20&width=600&animation=true" />
+</div>
+<br />
+<div align="center">
+<img src="https://leetcode-badge-showcase.vercel.app/api?username=Khaled6120&theme=dark" />
+</div>
+
+
+
 
  <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/khaled-naes-359456216">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 </div>
+
 
 
 
