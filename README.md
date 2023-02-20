@@ -44,13 +44,18 @@
   </div>
  <br />
 
+<p align="center"> <strong>Leetcode</strong>  </p>
+<br />
+
 <div align="center">
 <img src="https://leetcard.jacoblin.cool/Khaled6120?theme=nord&border=0&radius=20&width=600&animation=true" />
 </div>
 <br />
 <div align="center">
-<img src="https://leetcode-badge-showcase.vercel.app/api?username=Khaled6120&theme=sky" />
+<img width="80" src="https://user-images.githubusercontent.com/86200305/220100218-586ac69a-d058-4db2-84cf-2d6cea0cab2c.png" />
+
 </div>
+<br />
 
 
 
