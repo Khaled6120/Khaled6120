@@ -45,11 +45,11 @@
  <br />
 
 <div align="center">
-<img src="https://leetcard.jacoblin.cool/Khaled6120?theme=light&border=0&radius=20&width=600&animation=true" />
+<img src="https://leetcard.jacoblin.cool/Khaled6120?theme=nord&border=0&radius=20&width=600&animation=true" />
 </div>
 <br />
 <div align="center">
-<img src="https://leetcode-badge-showcase.vercel.app/api?username=Khaled6120&theme=light" />
+<img src="https://leetcode-badge-showcase.vercel.app/api?username=Khaled6120&theme=dark" />
 </div>
 
 
