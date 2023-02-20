@@ -49,7 +49,7 @@
 </div>
 <br />
 <div align="center">
-<img src="https://leetcode-badge-showcase.vercel.app/api?username=Khaled6120&theme=dark" />
+<img src="https://leetcode-badge-showcase.vercel.app/api?username=Khaled6120&theme=sky" />
 </div>
 
 
