@@ -34,7 +34,7 @@
    </p>&nbsp;
    
   <br />
- <div align="center" ><b>Still Learning..</b> </div><br /><br />
+ <div align="center" ><b>Willing To Learn..</b> </div><br /><br />
    <p align="center">
    <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" title="express" alt="express" width="40"  height="40"/>&nbsp;
    <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="nodejs" alt="NodeJS" width="40"  height="40"/>&nbsp;
