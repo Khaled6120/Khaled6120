@@ -56,9 +56,14 @@
 <div align="center">
 <img width="60" src="https://user-images.githubusercontent.com/86200305/220100218-586ac69a-d058-4db2-84cf-2d6cea0cab2c.png" />
 
+
 </div>
 <br />
 
+<p align= "center">
+    <img height= "175" src="https://github-readme-stats.vercel.app/api?username=khaled6120&show_icons=true&theme=dracula" />
+    <img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=khaled6120&theme=dracula&layout=compact" />
+</p>
 
 
 
