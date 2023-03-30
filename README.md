@@ -50,7 +50,7 @@
 <br />
 
 <div align="center">
-<img src="https://leetcard.jacoblin.cool/Khaled6120?theme=nord&border=0&radius=20&width=600&animation=true" />
+<img  width="750" src="https://leetcard.jacoblin.cool/Khaled6120?theme=nord&border=0&radius=20&width=600&animation=true" />
 </div>
 <br />
 <div align="center">
@@ -61,8 +61,8 @@
 <br />
 
 <p align= "center">
-    <img height= "175" src="https://github-readme-stats.vercel.app/api?username=khaled6120&show_icons=true&theme=dracula" />
-    <img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=khaled6120&theme=dracula&layout=compact" />
+    <img  height= "175" src="https://github-readme-stats.vercel.app/api?username=khaled6120&show_icons=true&theme=dracula" />
+    <img  height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=khaled6120&theme=dracula&layout=compact" />
 </p>
 
 
