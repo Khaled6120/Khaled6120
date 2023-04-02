@@ -5,7 +5,6 @@
 </div>
 <br />
 
-
 <div> 
   <div align="center" > 
  👋 Hi, I’m Khaled <br />
@@ -46,18 +45,17 @@
   </div>
  <br />
 
-<p align="center"> <strong>Leetcode</strong>  </p>
+<div align="center">
+<img width="60" src="https://user-images.githubusercontent.com/86200305/220100218-586ac69a-d058-4db2-84cf-2d6cea0cab2c.png" />
+
+</div>
 <br />
 
 <div align="center">
 <img  width="750" src="https://leetcard.jacoblin.cool/Khaled6120?theme=nord&border=0&radius=20&width=600&animation=true" />
 </div>
 <br />
-<div align="center">
-<img width="60" src="https://user-images.githubusercontent.com/86200305/220100218-586ac69a-d058-4db2-84cf-2d6cea0cab2c.png" />
 
-
-</div>
 <br />
 
 <p align= "center">
@@ -65,16 +63,11 @@
     <img  height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=khaled6120&theme=dracula&layout=compact" />
 </p>
 
-
-
  <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/khaled-naes-359456216">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn "/>
+  </a>
+  <a href="https://leetcode.com/Khaled6120/"> 
+    <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="Gmail "/>
   </a>
 </div>
-
-
-
-
-
-
