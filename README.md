@@ -7,7 +7,7 @@
   <div align="center" > 
  👋 Hi, I’m Khaled <br />
  👀 I’m interested in JavaScript, React.js, and React Native for mobile development <br />
- &#127891; I’m currently studying computer enginnering in Karabuk university in Turkey  <br />
+ &#127891; I’m a computer enginnering graduate from Karabuk university in Turkey  <br />
 📢 I’m looking to collaborate on projects , to work with a team .. <br />
  ✨ “You learn more from failure than from success. Don’t let it stop you. Failure builds character.”  <br /> 
   <br />
