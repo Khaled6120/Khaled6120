@@ -1,50 +1,133 @@
-<div id="header" width="100" align="center"  >
-  <div align="center" width="100" align="center" >
+<div align="center">
     <img width="300" src="https://media2.giphy.com/media/fkZukR450RQ1qnGaq9/giphy.gif?cid=ecf05e47gneo2xsewt8d2zhuq4cmwic93xuhluywadnh6oxy&rid=giphy.gif&ct=s" width="200"/>
-  </div>
 </div>
-<div> 
-  <div align="center" > 
- 👋 Hi, I’m Khaled <br />
- 👀 I’m interested in JavaScript, React.js, and React Native for mobile development <br />
- &#127891; I’m a computer enginnering graduate from Karabuk university in Turkey  <br />
-📢 I’m looking to collaborate on projects , to work with a team .. <br />
- ✨ “You learn more from failure than from success. Don’t let it stop you. Failure builds character.”  <br /> 
-  <br />
-    
-  <br />
-</div>
-</div>
- <div>
- <div align="center"><b>💻 Tech Stack</b> </div><br /><br />
-   <p align="center">
-     <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>
-     <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
-     <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
-     <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40"  height="40"/>&nbsp;
-     <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" title="Firebase" alt="Firebase" width="40" height="40"/>&nbsp;
-     <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
-     <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="redux" **alt="redux" width="40" height="40"/>
-     <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" title="bootstrap" **alt="bootstrap" width="40" height="40"/>
-     <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg" title="Tailwindcss" alt="Tw" width="40" height="40"/>&nbsp;
-     <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" title="sass" alt="sass" width="40" height="40"/>&nbsp;
-     <img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" title="npm" alt="Tw" width="40" height="40"/>&nbsp;
-     <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" title="express" alt="express" width="40"  height="40"/>&nbsp;
-     <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="nodejs" alt="NodeJS" width="40"  height="40"/>&nbsp;
-     <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-plain.svg" title="mongodb" alt="mongodb" width="40" height="40"/>&nbsp;
-   </p>&nbsp;
-   
-  <br />
- <div align="center" ><b>💡 Willing To Learn..</b> </div><br /><br />
-   <p align="center">
-   <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original-wordmark.svg" title="nextjs" **alt="nextjs" width="40" height="40"/>
-   <img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-plain.svg" title="materialui" alt="materialui" width="40" height="40"/>&nbsp;
-   </p>&nbsp;
-  </div>
- <br />
 
 <div align="center">
- <div align="center" ><b>✅ Badges</b> </div><br /><br />
+    <h1>👋 Hi, I’m Khaled</h1>
+    <p>👀 I’m interested in JavaScript, React.js, and React Native for mobile development</p>
+    <p>🎓 I’m a computer engineering graduate from Karabuk University in Turkey</p>
+    <p>📢 I’m looking to collaborate on projects and work with a team</p>
+    <p>✨ “You learn more from failure than from success. Don’t let it stop you. Failure builds character.”</p>
+</div>
+<br /> <br /> 
+
+
+<div align="center">
+  
+# 💻 Tech Stack
+</div>
+
+<table align='center'>
+  <tr>
+    <td align="center">
+     <img src="https://github.com/Khaled6120/Khaled6120/assets/86200305/26749d41-be74-4623-a003-47eb0a30d472" title="React" alt="React" width="80px" height="80px"/>
+      <br>React JS
+    </td>
+    <td align="center">
+     <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="80px" height="80px"/>&nbsp;
+      <br>CSS
+    </td>
+    <td align="center">
+     <img src="https://upload.wikimedia.org/wikipedia/commons/a/ab/Swagger-logo.png?20170812110931" title="Swagger" alt="Swagger" width="80px" height="80px"/>&nbsp;
+      <br>Swagger
+    </td>
+    <td align="center">
+      <img width="80px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg" alt="Express.js" />
+      <br>Express js
+    </td>
+    <td align="center">
+      <img width="80px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" alt="Jest" />
+      <br>Jest
+    </td>
+    <td align="center">
+           <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-plain.svg" title="mongodb" alt="mongodb" width="80px" height="80px"/>&nbsp;
+      <br>Mongodb
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img width="80px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" />
+      <br>TypeScript
+    </td>
+    <td align="center">
+      <img width="80px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" alt="Tailwind CSS" />
+      <br>Tailwind CSS
+    </td>
+    <td align="center">
+      <img width="80px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" />
+      <br>Vscode
+    </td>
+    <td align="center">
+      <img width="80px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" />
+      <br>Git
+    </td>
+    <td align="center">
+           <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" title="bootstrap" **alt="bootstrap" width="80px" height="80px"/>
+      <br>Bootstrap
+    </td>
+    <td align="center">
+      <img width="80px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="github" />
+      <br>Github
+    </td>
+  </tr>
+  <tr>
+    </td>
+    <td align="center">
+      <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" title="sass" alt="sass" width="80px" height="80px"/>
+      <br>SASS
+    </td>
+    <td align="center">
+      <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" **alt="Redux" width="80px" height="80px"/>
+      <br>Redux
+    </td>
+    <td align="center">
+     <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="80px"  height="80px"/>
+      <br>Javascript
+    </td>
+    <td align="center">
+     <img src="https://github.com/Khaled6120/Khaled6120/assets/86200305/0cc9c7b3-2ee9-4fc2-9f39-be718dbdec8d" title="HTML" alt="HTML" width="80px"  height="80px"/>
+      <br>HTML
+    </td>
+    <td align="center">
+     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" title="Node" alt="Node" width="80px"  height="80px"/>
+      <br>Node JS
+    </td>
+    <td align="center">
+     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" title="Figma" alt="Figma" width="80px"  height="80px"/>
+      <br>Figma
+    </td>
+  </tr>
+</table>
+
+<br /> <br />
+
+<div align="center">
+  
+# 💡 Willing To Learn..
+</div>
+
+<table align='center'>
+   <tr>
+     <td align="center">
+          <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original-wordmark.svg" title="nextjs" **alt="nextjs" width="80px" height="80px"/>
+             <br>Nextjs
+     </td>
+     <td align="center">
+            <img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-plain.svg" title="materialui" alt="materialui" width="80px" height="80px"/>
+             <br>MUI
+     </td>
+   </tr>
+</table>
+
+<br />
+
+<div align="center">
+
+  <div align="center">
+
+# ✅ Badges
+
+</div>
 <img width="100" src="https://user-images.githubusercontent.com/86200305/220100218-586ac69a-d058-4db2-84cf-2d6cea0cab2c.png" />
 <!--START_SECTION:badges-->
 <a href="https://www.credly.com/earner/earned/badge/01f2d45c-340a-4464-9a6a-d9799f05b76e">
@@ -61,7 +144,6 @@
 
 <br /><br /><br />
 
-
 <div align="center">
 <img  width="750" src="https://leetcard.jacoblin.cool/Khaled6120?theme=nord&border=0&radius=20&width=600&animation=true" />
 </div>
@@ -74,11 +156,16 @@
     <img  height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=khaled6120&theme=dracula&layout=compact" />
 </p>
 
- <div id="badges" align="center">
-  <a href="https://www.linkedin.com/in/khaled-naes-359456216">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn "/>
-  </a>
-  <a href="https://leetcode.com/Khaled6120/"> 
-    <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="Gmail "/>
-  </a>
+<br />
+
+<div id="badges" align="center">
+    <a href="https://www.linkedin.com/in/khaled-naes-359456216">
+        <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    </a>
+    <a href="https://leetcode.com/Khaled6120/">
+        <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="LeetCode"/>
+    </a>
+    <a href="https://medium.com/@alnaes1234">
+        <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"/>
+    </a>
 </div>
