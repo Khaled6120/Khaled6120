@@ -44,13 +44,23 @@
  <br />
 
 <div align="center">
-<img width="60" src="https://user-images.githubusercontent.com/86200305/220100218-586ac69a-d058-4db2-84cf-2d6cea0cab2c.png" />
-
+ <div align="center" ><b>Badges</b> </div><br /><br />
+<img width="100" src="https://user-images.githubusercontent.com/86200305/220100218-586ac69a-d058-4db2-84cf-2d6cea0cab2c.png" />
+<!--START_SECTION:badges-->
+<a href="https://www.credly.com/earner/earned/badge/01f2d45c-340a-4464-9a6a-d9799f05b76e">
+  <img src="https://images.credly.com/size/200x200/images/af8c6b4e-fc31-47c4-8dcb-eb7a2065dc5b/I2CS__1_.png" alt="Introduction to Cybersecurity" width="100" height="100">
+</a>
+<a href="https://www.credly.com/badges/22db03be-79b4-46b7-ad55-e7cb8e1f2c80/public_url">
+  <img src="https://images.credly.com/size/220x220/images/e91ed0b0-842b-417f-8d2f-b07535febdda/image.png" alt="Meta Front-End Developer Certificate" width="100" height="100">
+</a>
+<a href="https://www.credly.com/earner/earned/badge/3c3da837-9e45-4cdb-9bc9-6c298cbfd8cf">
+  <img src="https://images.credly.com/size/680x680/images/86bd5014-111c-4693-a1e1-43749c847cbd/83305.png" alt="Coursera GTC Statement of Accomplishment" width="100" height="100">
+</a>
+<!--END_SECTION:badges-->
 </div>
 
-<!--START_SECTION:badges-->
-<!--END_SECTION:badges-->
-<br />
+<br /><br /><br />
+
 
 <div align="center">
 <img  width="750" src="https://leetcard.jacoblin.cool/Khaled6120?theme=nord&border=0&radius=20&width=600&animation=true" />
