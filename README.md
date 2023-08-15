@@ -47,6 +47,9 @@
 <img width="60" src="https://user-images.githubusercontent.com/86200305/220100218-586ac69a-d058-4db2-84cf-2d6cea0cab2c.png" />
 
 </div>
+
+<!--START_SECTION:badges-->
+<!--END_SECTION:badges-->
 <br />
 
 <div align="center">
