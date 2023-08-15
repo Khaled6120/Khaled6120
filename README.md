@@ -35,7 +35,7 @@
    </p>&nbsp;
    
   <br />
- <div align="center" ><b>Willing To Learn..</b> </div><br /><br />
+ <div align="center" ><b>💡 Willing To Learn..</b> </div><br /><br />
    <p align="center">
    <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original-wordmark.svg" title="nextjs" **alt="nextjs" width="40" height="40"/>
    <img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-plain.svg" title="materialui" alt="materialui" width="40" height="40"/>&nbsp;
@@ -44,7 +44,7 @@
  <br />
 
 <div align="center">
- <div align="center" ><b>Badges</b> </div><br /><br />
+ <div align="center" ><b>✅ Badges</b> </div><br /><br />
 <img width="100" src="https://user-images.githubusercontent.com/86200305/220100218-586ac69a-d058-4db2-84cf-2d6cea0cab2c.png" />
 <!--START_SECTION:badges-->
 <a href="https://www.credly.com/earner/earned/badge/01f2d45c-340a-4464-9a6a-d9799f05b76e">
