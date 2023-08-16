@@ -4,8 +4,8 @@
 
 <div align="center">
     <h1>👋 Hi, I’m Khaled</h1>
-    <p>👀 I’m interested in JavaScript, React.js, and React Native for mobile development</p>
     <p>🎓 I’m a computer engineering graduate from Karabuk University in Turkey</p>
+    <p>👀 I’m interested in MERN stack (MongoDB, Express, React and NodeJS)</p>
     <p>📢 I’m looking to collaborate on projects and work with a team</p>
     <p>✨ “You learn more from failure than from success. Don’t let it stop you. Failure builds character.”</p>
 </div>
@@ -40,7 +40,7 @@
       <br>Jest
     </td>
     <td align="center">
-           <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-plain.svg" title="mongodb" alt="mongodb" width="80px" height="80px"/>&nbsp;
+           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" title="mongodb" alt="mongodb" width="80px" height="80px"/>&nbsp;
       <br>Mongodb
     </td>
   </tr>
