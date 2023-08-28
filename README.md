@@ -32,7 +32,7 @@
       <br>Swagger
     </td>
     <td align="center">
-      <img width="80px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg" alt="Express.js" />
+      <img width="80px" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/expressjs_logo_icon_169185.png" alt="Express.js" />
       <br>Express js
     </td>
     <td align="center">
