@@ -4,7 +4,7 @@
 
 <div align="center">
     <h1>👋 Hi, I’m Khaled!</h1>
-    <p>🎓 I’m a computer engineering graduate from Karabuk University in Turkey</p>
+    <p>🎓 I’m a computer engineer graduated from Karabuk University in Turkey</p>
     <p>👀 I’m interested in MERN stack (MongoDB, Express, React, and NodeJS)</p>
     <p>📢 I’m looking to collaborate on projects and work with a team</p>
     <p>✨ “You learn more from failure than from success. Don’t let it stop you. Failure builds character.”</p>
@@ -93,8 +93,8 @@
       <br>Node JS
     </td>
     <td align="center">
-     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" title="Figma" alt="Figma" width="80px"  height="80px"/>
-      <br>Figma
+     <img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/97_Docker_logo_logos-512.png" title="Figma" alt="Figma" width="80px"  height="80px"/>
+      <br>Docker
     </td>
   </tr>
 </table>
