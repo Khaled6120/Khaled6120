@@ -89,7 +89,7 @@
       <br>HTML
     </td>
     <td align="center">
-     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" title="Node" alt="Node" width="80px"  height="80px"/>
+     <img src="https://cdn-icons-png.flaticon.com/512/5968/5968322.png" title="Node" alt="Node" width="80px"  height="80px"/>
       <br>Node JS
     </td>
     <td align="center">
