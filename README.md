@@ -143,7 +143,7 @@
 
 
 <a href="https://www.credly.com/earner/earned/badge/3c3da837-9e45-4cdb-9bc9-6c298cbfd8cf">
-  <img src="https://holopin.io/@khaled6120" alt="badge" width="100" height="100">
+  <img src="" alt="badge" width="100" height="100">
 </a>
 
 <!--END_SECTION:badges-->
