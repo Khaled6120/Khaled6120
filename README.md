@@ -139,11 +139,8 @@
 <a href="https://www.credly.com/earner/earned/badge/3c3da837-9e45-4cdb-9bc9-6c298cbfd8cf">
   <img src="https://images.credly.com/size/680x680/images/86bd5014-111c-4693-a1e1-43749c847cbd/83305.png" alt="Coursera GTC Statement of Accomplishment" width="100" height="100">
 </a>
-
-
-
-<a href="https://www.credly.com/earner/earned/badge/3c3da837-9e45-4cdb-9bc9-6c298cbfd8cf">
-  <img src="" alt="badge" width="100" height="100">
+<a href="">
+  <img src="https://assets.holopin.io/eyJidWNrZXQiOiJob2xvcGluLWFzc2V0cyIsImtleSI6ImFzc2V0cy9jbG15cWdyMGUwMjI1enV6amdxZmYwbmhsIiwiZWRpdHMiOnsicm90YXRlIjpudWxsfX0=" alt="badge" width="100" height="100">
 </a>
 
 <!--END_SECTION:badges-->
