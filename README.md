@@ -136,13 +136,18 @@
 <a href="https://www.credly.com/badges/22db03be-79b4-46b7-ad55-e7cb8e1f2c80/public_url">
   <img src="https://images.credly.com/size/220x220/images/e91ed0b0-842b-417f-8d2f-b07535febdda/image.png" alt="Meta Front-End Developer Certificate" width="100" height="100">
 </a>
-<a href="https://www.credly.com/earner/earned/badge/3c3da837-9e45-4cdb-9bc9-6c298cbfd8cf">
-  <img src="https://images.credly.com/size/680x680/images/86bd5014-111c-4693-a1e1-43749c847cbd/83305.png" alt="Coursera GTC Statement of Accomplishment" width="100" height="100">
-</a>
 <a href="">
   <img src="https://assets.holopin.io/eyJidWNrZXQiOiJob2xvcGluLWFzc2V0cyIsImtleSI6ImFzc2V0cy9jbG15cWdyMGUwMjI1enV6amdxZmYwbmhsIiwiZWRpdHMiOnsicm90YXRlIjpudWxsfX0=" alt="badge" width="100" height="100">
 </a>
-
+<a href="">
+  <img src="https://images.credly.com/size/680x680/images/22a0ece5-ff05-4594-8320-25e55e9ae203/image.png" alt="badge" width="100" height="100">
+</a>
+<a href="">
+  <img src="https://images.credly.com/size/680x680/images/5bdd6a39-3e03-4444-9510-ecff80c9ce79/image.png" alt="badge" width="100" height="100">
+</a>
+<a href="">
+  <img src="https://images.credly.com/size/680x680/images/0bf0f2da-a699-4c82-82e2-56dcf1f2e1c7/image.png" alt="badge" width="100" height="100">
+</a>
 <!--END_SECTION:badges-->
 </div>
 
