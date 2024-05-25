@@ -128,8 +128,12 @@
 # ✅ Badges
 
 </div>
+<a href="https://www.credly.com/badges/aae4db06-0965-4950-9e72-75f49f30eed3/public_url">
+  <img src="https://cyberdefenders.org/static/img/exams/gold_coin.png" alt="Introduction to Cybersecurity" width="100" height="100">
+</a>
 <img width="100" src="https://user-images.githubusercontent.com/86200305/220100218-586ac69a-d058-4db2-84cf-2d6cea0cab2c.png" />
 <!--START_SECTION:badges-->
+
 <a href="https://www.credly.com/earner/earned/badge/01f2d45c-340a-4464-9a6a-d9799f05b76e">
   <img src="https://images.credly.com/size/200x200/images/af8c6b4e-fc31-47c4-8dcb-eb7a2065dc5b/I2CS__1_.png" alt="Introduction to Cybersecurity" width="100" height="100">
 </a>
