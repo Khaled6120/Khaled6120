@@ -4,7 +4,7 @@
 
 <div align="center">
     <h1>👋 Hi, I’m Khaled!</h1>
-    <p>🎓 I’m a computer engineer graduated from Karabuk University in Turkey</p>
+    <p>🎓 I’m a computer engineer</p>
     <p>👀 I’m interested in MERN stack (MongoDB, Express, React, and NodeJS)</p>
     <p>📢 I’m looking to collaborate on projects and work with a team</p>
     <p>✨ “You learn more from failure than from success. Don’t let it stop you. Failure builds character.”</p>
