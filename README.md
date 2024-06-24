@@ -1,13 +1,9 @@
-<div align="center">
-    <img width="300" src="https://media2.giphy.com/media/fkZukR450RQ1qnGaq9/giphy.gif?cid=ecf05e47gneo2xsewt8d2zhuq4cmwic93xuhluywadnh6oxy&rid=giphy.gif&ct=s" width="200"/>
-</div>
+
 
 <div align="center">
-    <h1>👋 Hi, I’m Khaled!</h1>
-    <p>🎓 I’m a computer engineer</p>
+    <h1>👋 Hi, I’m Khaled! a computer engineer</h1>
     <p>👀 I’m interested in MERN stack (MongoDB, Express, React, and NodeJS)</p>
     <p>📢 I’m looking to collaborate on projects and work with a team</p>
-    <p>✨ “You learn more from failure than from success. Don’t let it stop you. Failure builds character.”</p>
 </div>
 <br /> <br /> 
 
@@ -101,25 +97,9 @@
 
 <br /> <br />
 
-<div align="center">
-  
-# 💡 Willing To Learn..
-</div>
 
-<table align='center'>
-   <tr>
-     <td align="center">
-          <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original-wordmark.svg" title="nextjs" **alt="nextjs" width="80px" height="80px"/>
-             <br>Nextjs
-     </td>
-     <td align="center">
-            <img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-plain.svg" title="materialui" alt="materialui" width="80px" height="80px"/>
-             <br>MUI
-     </td>
-   </tr>
-</table>
 
-<br />
+
 
 <div align="center">
 
