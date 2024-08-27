@@ -16,15 +16,15 @@
 <table align='center'>
   <tr>
     <td align="center">
-     <img src="https://github.com/Khaled6120/Khaled6120/assets/86200305/26749d41-be74-4623-a003-47eb0a30d472" title="React" alt="React" width="50px" height="80px"/>
+     <img src="https://github.com/Khaled6120/Khaled6120/assets/86200305/26749d41-be74-4623-a003-47eb0a30d472" title="React" alt="React" width="50px" height="50px"/>
       <br>React JS
     </td>
     <td align="center">
-     <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="50px" height="80px"/>&nbsp;
+     <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="50px" height="50px"/>&nbsp;
       <br>CSS
     </td>
     <td align="center">
-     <img src="https://upload.wikimedia.org/wikipedia/commons/a/ab/Swagger-logo.png?20170812110931" title="Swagger" alt="Swagger" width="50px" height="80px"/>&nbsp;
+     <img src="https://upload.wikimedia.org/wikipedia/commons/a/ab/Swagger-logo.png?20170812110931" title="Swagger" alt="Swagger" width="50px" height="50px"/>&nbsp;
       <br>Swagger
     </td>
     <td align="center">
@@ -36,7 +36,7 @@
       <br>Jest
     </td>
     <td align="center">
-           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" title="mongodb" alt="mongodb" width="50px" height="80px"/>&nbsp;
+           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" title="mongodb" alt="mongodb" width="50px" height="50px"/>&nbsp;
       <br>Mongodb
     </td>
   </tr>
@@ -58,7 +58,7 @@
       <br>Git
     </td>
     <td align="center">
-           <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" title="bootstrap" **alt="bootstrap" width="50px" height="80px"/>
+           <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" title="bootstrap" **alt="bootstrap" width="50px" height="50px"/>
       <br>Bootstrap
     </td>
     <td align="center">
@@ -69,27 +69,27 @@
   <tr>
     </td>
     <td align="center">
-      <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" title="sass" alt="sass" width="50px" height="80px"/>
+      <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" title="sass" alt="sass" width="50px" height="50px"/>
       <br>SASS
     </td>
     <td align="center">
-      <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" **alt="Redux" width="50px" height="80px"/>
+      <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" **alt="Redux" width="50px" height="50px"/>
       <br>Redux
     </td>
     <td align="center">
-     <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="50px"  height="80px"/>
+     <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="50px"  height="50px"/>
       <br>Javascript
     </td>
     <td align="center">
-     <img src="https://github.com/Khaled6120/Khaled6120/assets/86200305/0cc9c7b3-2ee9-4fc2-9f39-be718dbdec8d" title="HTML" alt="HTML" width="50px"  height="80px"/>
+     <img src="https://github.com/Khaled6120/Khaled6120/assets/86200305/0cc9c7b3-2ee9-4fc2-9f39-be718dbdec8d" title="HTML" alt="HTML" width="50px"  height="50px"/>
       <br>HTML
     </td>
     <td align="center">
-     <img src="https://cdn-icons-png.flaticon.com/512/5968/5968322.png" title="Node" alt="Node" width="50px"  height="80px"/>
+     <img src="https://cdn-icons-png.flaticon.com/512/5968/5968322.png" title="Node" alt="Node" width="50px"  height="50px"/>
       <br>Node JS
     </td>
     <td align="center">
-     <img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/97_Docker_logo_logos-512.png" title="Figma" alt="Figma" width="50px"  height="80px"/>
+     <img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/97_Docker_logo_logos-512.png" title="Figma" alt="Figma" width="50px"  height="8l50px"/>
       <br>Docker
     </td>
   </tr>
