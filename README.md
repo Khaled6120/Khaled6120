@@ -16,15 +16,15 @@
 <table align='center'>
   <tr>
     <td align="center">
-     <img src="https://github.com/Khaled6120/Khaled6120/assets/86200305/26749d41-be74-4623-a003-47eb0a30d472" title="React" alt="React" width="80px" height="80px"/>
+     <img src="https://github.com/Khaled6120/Khaled6120/assets/86200305/26749d41-be74-4623-a003-47eb0a30d472" title="React" alt="React" width="50px" height="80px"/>
       <br>React JS
     </td>
     <td align="center">
-     <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="80px" height="80px"/>&nbsp;
+     <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="50px" height="80px"/>&nbsp;
       <br>CSS
     </td>
     <td align="center">
-     <img src="https://upload.wikimedia.org/wikipedia/commons/a/ab/Swagger-logo.png?20170812110931" title="Swagger" alt="Swagger" width="80px" height="80px"/>&nbsp;
+     <img src="https://upload.wikimedia.org/wikipedia/commons/a/ab/Swagger-logo.png?20170812110931" title="Swagger" alt="Swagger" width="50px" height="80px"/>&nbsp;
       <br>Swagger
     </td>
     <td align="center">
@@ -109,28 +109,28 @@
 
 </div>
 <a href="https://www.credly.com/badges/aae4db06-0965-4950-9e72-75f49f30eed3/public_url">
-  <img src="https://cyberdefenders.org/static/img/exams/gold_coin.png" alt="Introduction to Cybersecurity" width="60" height="100">
+  <img src="https://cyberdefenders.org/static/img/exams/gold_coin.png" alt="Introduction to Cybersecurity" width="60" height="60">
 </a>
 <img width="60" src="https://user-images.githubusercontent.com/86200305/220100218-586ac69a-d058-4db2-84cf-2d6cea0cab2c.png" />
 <!--START_SECTION:badges-->
 
 <a href="https://www.credly.com/earner/earned/badge/01f2d45c-340a-4464-9a6a-d9799f05b76e">
-  <img src="https://images.credly.com/size/200x200/images/af8c6b4e-fc31-47c4-8dcb-eb7a2065dc5b/I2CS__1_.png" alt="Introduction to Cybersecurity" width="60" height="100">
+  <img src="https://images.credly.com/size/200x200/images/af8c6b4e-fc31-47c4-8dcb-eb7a2065dc5b/I2CS__1_.png" alt="Introduction to Cybersecurity" width="60" height="60">
 </a>
 <a href="https://www.credly.com/badges/22db03be-79b4-46b7-ad55-e7cb8e1f2c80/public_url">
-  <img src="https://images.credly.com/size/220x220/images/e91ed0b0-842b-417f-8d2f-b07535febdda/image.png" alt="Meta Front-End Developer Certificate" width="60" height="100">
+  <img src="https://images.credly.com/size/220x220/images/e91ed0b0-842b-417f-8d2f-b07535febdda/image.png" alt="Meta Front-End Developer Certificate" width="60" height="60">
 </a>
 <a href="">
-  <img src="https://assets.holopin.io/eyJidWNrZXQiOiJob2xvcGluLWFzc2V0cyIsImtleSI6ImFzc2V0cy9jbG15cWdyMGUwMjI1enV6amdxZmYwbmhsIiwiZWRpdHMiOnsicm90YXRlIjpudWxsfX0=" alt="badge" width="60" height="100">
+  <img src="https://assets.holopin.io/eyJidWNrZXQiOiJob2xvcGluLWFzc2V0cyIsImtleSI6ImFzc2V0cy9jbG15cWdyMGUwMjI1enV6amdxZmYwbmhsIiwiZWRpdHMiOnsicm90YXRlIjpudWxsfX0=" alt="badge" width="60" height="60">
 </a>
 <a href="">
-  <img src="https://images.credly.com/size/680x680/images/22a0ece5-ff05-4594-8320-25e55e9ae203/image.png" alt="badge" width="60" height="100">
+  <img src="https://images.credly.com/size/680x680/images/22a0ece5-ff05-4594-8320-25e55e9ae203/image.png" alt="badge" width="60" height="60">
 </a>
 <a href="">
-  <img src="https://images.credly.com/size/680x680/images/5bdd6a39-3e03-4444-9510-ecff80c9ce79/image.png" alt="badge" width="60" height="100">
+  <img src="https://images.credly.com/size/680x680/images/5bdd6a39-3e03-4444-9510-ecff80c9ce79/image.png" alt="badge" width="60" height="60">
 </a>
 <a href="">
-  <img src="https://images.credly.com/size/680x680/images/0bf0f2da-a699-4c82-82e2-56dcf1f2e1c7/image.png" alt="badge" width="60" height="100">
+  <img src="https://images.credly.com/size/680x680/images/0bf0f2da-a699-4c82-82e2-56dcf1f2e1c7/image.png" alt="badge" width="60" height="60">
 </a>
 <!--END_SECTION:badges-->
 </div>
