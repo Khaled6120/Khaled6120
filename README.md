@@ -1,11 +1,12 @@
 
 
 <div align="center">
-    <h1>👋 Hi, I’m Khaled! a computer engineer</h1>
-    <p>👀 I’m interested in MERN stack (MongoDB, Express, React, and NodeJS)</p>
-    <p>📢 I’m looking to collaborate on projects and work with a team</p>
-</div>
-<br /> <br /> 
+    <h2>Hi, I’m Khaled! a Computer Engineer. </br>
+        <span>I’m interested in MERN stack (MongoDB, Express, React, and NodeJS)</span>
+    </h2>
+
+<br />
+
 
 
 <div align="center">
@@ -111,6 +112,12 @@
 <a href="https://www.credly.com/badges/aae4db06-0965-4950-9e72-75f49f30eed3/public_url">
   <img src="https://cyberdefenders.org/static/img/exams/gold_coin.png" alt="Introduction to Cybersecurity" width="60" height="60">
 </a>
+<a href="">
+  <img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/123031694" alt="badge" width="60" height="60">
+</a>
+<a href="">
+  <img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/112960297" alt="badge" width="60" height="60">
+</a>
 <img width="60" src="https://user-images.githubusercontent.com/86200305/220100218-586ac69a-d058-4db2-84cf-2d6cea0cab2c.png" />
 <!--START_SECTION:badges-->
 
@@ -132,6 +139,7 @@
 <a href="">
   <img src="https://images.credly.com/size/680x680/images/0bf0f2da-a699-4c82-82e2-56dcf1f2e1c7/image.png" alt="badge" width="60" height="60">
 </a>
+
 <!--END_SECTION:badges-->
 </div>
 
