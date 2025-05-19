@@ -2,7 +2,7 @@
 
 <div align="center">
     <h2>Hi, I’m Khaled! a Computer Engineer. </br>
-        <span>I’m interested in MERN stack (MongoDB, Express, React, and NodeJS)</span>
+        <span>Into MERN stack development and Cybersecurity.</span>
     </h2>
 
 <br />
@@ -47,7 +47,7 @@
       <br>TypeScript
     </td>
     <td align="center">
-      <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" alt="Tailwind CSS" />
+      <img width="50px" src="https://www.svgrepo.com/show/374118/tailwind.svg" alt="Tailwind CSS" />
       <br>Tailwind CSS
     </td>
     <td align="center">
@@ -106,7 +106,7 @@
 
   <div align="center">
 
-# ✅ Badges
+# ✅ Badges & Certs
 
 </div>
 <a href="https://www.credly.com/badges/aae4db06-0965-4950-9e72-75f49f30eed3/public_url">
